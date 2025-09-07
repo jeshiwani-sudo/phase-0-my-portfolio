@@ -80,7 +80,7 @@ a img {
     padding: 10%;
 }
 
-#profile{
+/* #profile{
     flex: 0 0 25%;
     margin: 20px 40px 40px 40px;
 
@@ -90,9 +90,9 @@ a img {
    width: 100%;
    height: 100%;
    border-radius: 100%;
-}
+} */
 
-.story{
+/* .story{
     flex: 1;
     margin-left: 10px;
     padding-left: 4%;
@@ -109,4 +109,4 @@ a img {
     color: white;
     font-family: 'Lato', sans-serif;
     font-size: 25px;
-} 
+}  */
