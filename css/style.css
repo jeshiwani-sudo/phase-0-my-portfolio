@@ -26,6 +26,7 @@ a img {
     justify-content: space-between;
 }
 
+/*List items*/
 .navbar ul li {
     list-style: none;
     display: inline-block;
