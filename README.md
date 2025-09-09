@@ -1,24 +1,23 @@
 # phase-0-my-portfolio
 # Personal Portfolio Website
 
-This is a responsive personal portfolio website built using HTML, CSS, and Bootstrap.  
-It highlights my profile, background in Computer Science, and current Software Engineering studies at Moringa School.  
+This is a personal portfolio website built using HTML, CSS, and Bootstrap.  
+It highlights my profile and background in the tech field.
 
 ## Features
 - Clean and responsive design
 - Navigation bar with hover effects
-- Profile section with circular image
+- Profile section 
 - About/story section with introduction
 - Buttons for CV download and contact
 - Integrated with Google Fonts and Font Awesome icons
-- Background banner image with overlay
+- Background banner image 
 
 ## Project Structure
 |-- index.html          # Main portfolio page  
 |-- css/  
     -- style.css       # Custom styles  
-|-- images/  
-    |-- profilepic.png  # Profile picture  
+|-- images/      
     |-- developer.jpg   # Background image  
 |-- README.txt          # Project description  
 
